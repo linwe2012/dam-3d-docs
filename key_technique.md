@@ -69,3 +69,11 @@ python中的sqlite3模块提供了很方便的python与sqlite之间的接口，�
 
 
 
+### 正则校验
+
+正则表达式(Regular Expression)描述了一种字符串匹配的模式，常用于简化表达式匹配语句，我们在用户邮箱校验的部分提供了[正则表达式]( https://en.wikipedia.org/wiki/Regular_expression )校验。
+
+```
+'^[a-zA-Z0-9_-]+@[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+$
+```
+
