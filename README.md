@@ -8,3 +8,5 @@ Web:  https://github.com/gs-learner/gs-dam-3d
 
 [架构与设计](design.md)
 
+[关键技术](key technique.md)
+
